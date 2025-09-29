@@ -1,0 +1,5 @@
+Airflow/logs/
+Banvic/dbdata/
+Airflow/config/
+Airflow/plugins/
+Airflow/datalake/
