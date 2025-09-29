@@ -43,11 +43,6 @@ A tarefa do pipeline é:
 
 ## Execução
 
-### Pré-requisitos
-
-* Docker
-* Docker Compose
-
 ### Passo a passo
 
 1. **Clonar o repositório**
@@ -57,7 +52,7 @@ A tarefa do pipeline é:
    cd data-pipeline-airflow-postgres
    ```
 
-2. **Criar as pastas necessárias**
+2. **Criar as pastas necessárias na pasta do Airflow**
 
    ```bash
    mkdir logs datalake
